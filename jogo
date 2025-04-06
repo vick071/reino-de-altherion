@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-Bt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ascensão de Eldoria – Herança Arcana</title>
+  <style>
+    body {
+      background-color: #1c1c2b;
+      font-family: 'Segoe UI', sans-serif;
+      color: #eee;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #282846;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2em;
+      color: #9dd;
+    }
+    .container {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .section {
+      margin-bottom: 40px;
+      padding: 15px;
+      background: #2e2e47;
+      border-radius: 10px;
+    }
+    h2 {
+      color: #7cc;
+    }
+    code {
+      background: #444;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ascensão de Eldoria – Herança Arcana</h1>
+  </header>
+  <div class="container">
+
+    <div class="section">
+      <h2>Personagem Principal</h2>
+      <p><strong>Nome:</strong> Aranira Tempest</p>
+      <p><strong>Classe:</strong> Metamorfa Arcana</p>
+      <p><strong>Poder:</strong> Absorção + Teias mágicas</p>
+      <p><strong>História:</strong> Aranira foi amaldiçoada por um espírito aranha em guerra mágica. Agora, absorve habilidades e manipula magia ancestral.</p>
+    </div>
+
+    <div class="section">
+      <h2>Sistema de Poderes</h2>
+      <ul>
+        <li><code>Nv. 5</code> – Teia Incandescente</li>
+        <li><code>Nv. 10</code> – Espírito de Magia Voraz</li>
+        <li><code>Nv. 15</code> – Prisma da Memória</li>
+        <li><code>Nv. 20</code> – Dimensão do Caos</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Cidades e Regiões</h2>
+      <ul>
+        <li><strong>Aeloria</strong> – Capital dos Magos</li>
+        <li><strong>Val'Darun</strong> – Ruínas corrompidas</li>
+        <li><strong>Thymor</strong> – Floresta viva</li>
+        <li><strong>Karan-Tal</strong> – Submundo necromante</li>
+        <li><strong>Espiral Sombria</strong> – Torre infinita</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Monstros e Missões</h2>
+      <ul>
+        <li>Horda Demoníaca</li>
+        <li>Labirintos com armadilhas</li>
+        <li>Missões de guilda e eventos diários</li>
+        <li>Chefe: Dragão Elemental, Senhor Morto</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Sistema de Segurança</h2>
+      <ul>
+        <li>Criptografia AES de dados</li>
+        <li>Backup automático diário</li>
+        <li>Atualizações automáticas de história e feitiços</li>
+        <li>Detecção antifraude e anti-hacker</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Modo de Jogo</h2>
+      <ul>
+        <li>Modo solo ou em grupo</li>
+        <li>Sistema de combate em tempo real</li>
+        <li>História interativa com escolhas morais</li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+</html>
